@@ -2,6 +2,6 @@ Name: Kim W. Tracy
 email: kwtracy@mtu.edu
 github: kimtracy
 
+<<<<<<< HEAD
 class instructor
-
-
+>>>>>>> origin/master
