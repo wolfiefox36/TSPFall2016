@@ -1,3 +1,5 @@
 Name: Kim W. Tracy
 email: kwtracy@mtu.edu
 github: kimtracy
+
+ouch goes the weasel
