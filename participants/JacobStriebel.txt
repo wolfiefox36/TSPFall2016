@@ -1,0 +1,4 @@
+Name: Jacob Striebel
+email: jstriebe@mtu.edu
+github: striebel
+
