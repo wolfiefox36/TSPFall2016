@@ -21,6 +21,7 @@ main (int argc, char *argv[])
 
   printf ("%02d: Kim Tracy\n", ++i);
   printf ("%02d: Justin Williams\n", ++i);
+  printf ("%02d: Steven Bertolucci\n", ++i);
   
   
   printf ("There are %i participants.\n", i);
