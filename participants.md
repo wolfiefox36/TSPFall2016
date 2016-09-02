@@ -7,8 +7,9 @@ Jordan Gagnon
 Joshua Prewett
 Justin Williams
 Kim Tracy
+Michael Lay
 Michael LeCaptain
 Steven Bertolucci
 Kyle Bray
 Eric Widmann
-Michael Lay
+
