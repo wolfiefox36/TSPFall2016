@@ -3,6 +3,7 @@
 //
 Baron Lenardson
 Ben Closner
+Dan Knenlein
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
