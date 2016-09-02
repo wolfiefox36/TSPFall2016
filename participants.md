@@ -3,6 +3,7 @@
 //
 Baron Lenardson
 Ben Closner
+Jordan Gagnon
 Joshua Prewett
 Justin Williams
 Kim Tracy
