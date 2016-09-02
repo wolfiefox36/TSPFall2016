@@ -7,6 +7,7 @@ Jordan Gagnon
 Joshua Prewett
 Justin Williams
 Kim Tracy
+Michael LeCaptain
 Steven Bertolucci
 Kyle Bray
 Eric Widmann
