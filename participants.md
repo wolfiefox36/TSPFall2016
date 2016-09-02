@@ -9,7 +9,7 @@ Joshua Prewett
 Justin Williams
 Kim Tracy
 Michael Lay
-Michael LeCaptai
+Michael LeCaptain
 Steven Bertolucci
 Kyle Bray
 Eric Widmann
