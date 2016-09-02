@@ -3,12 +3,13 @@
 //
 Baron Lenardson
 Ben Closner
+Dan Knenlein
 Jordan Gagnon
 Joshua Prewett
 Justin Williams
 Kim Tracy
 Michael Lay
-Michael P. LeCaptain
+Michael LeCaptain
 Steven Bertolucci
 Kyle Bray
 Eric Widmann
